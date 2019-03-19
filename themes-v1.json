@@ -6,7 +6,6 @@
       "secondary": "#FF8A22",
       "textDark": "#000",
       "bgColor": "#f8f8f8",
-      "contrast": "#0CBCBE",
       "quickMenuBackground": "#15a3a5",
       "backgroundTopBar": "#FFF",
       "logoDetail": "#FFF",
@@ -35,9 +34,8 @@
     "name": "Purple/Pink",
     "variables": {
       "primary": "#6e2bbb",
-      "secondary": "#582098",
+      "secondary": "#E81756",
       "bgColor": "#f8f8f8",
-      "contrast": "#E81756",
       "quickMenuBackground": "#ba1546",
       "backgroundTopBar": "#FFF",
       "logoDetail": "#FFF",
@@ -66,8 +64,7 @@
     "name": "Blue/Orange",
     "variables": {
       "primary": "#0747a6",
-      "contrast": "#ff991f",
-      "secondary": "#063c8e",
+      "secondary": "#ff991f",
       "bgColor": "#f8f8f8",
       "quickMenuBackground": "#063c8e",
       "backgroundTopBar": "#FFF",
