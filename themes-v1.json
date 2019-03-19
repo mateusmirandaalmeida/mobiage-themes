@@ -1,20 +1,20 @@
 [
   {
-    "name": "Green/Orange",
+    "name": "Kigi",
     "variables": {
       "primary": "#0CBCBE",
       "secondary": "#FF8A22"
     }
   },
   {
-    "name": "Purple/Pink",
+    "name": "Mobiage",
     "variables": {
       "primary": "#6e2bbb",
       "secondary": "#E81756"
     }
   },
   {
-    "name": "Blue/Orange",
+    "name": "SG",
     "variables": {
       "primary": "#0747a6",
       "secondary": "#ff991f"
