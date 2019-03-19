@@ -63,37 +63,6 @@
     }
   },
   {
-    "name": "Purple/Pink",
-    "variables": {
-      "primary": "#6e2bbb",
-      "secondary": "#582098",
-      "bgColor": "#f8f8f8",
-      "contrast": "#E81756",
-      "quickMenuBackground": "#ba1546",
-      "backgroundTopBar": "#FFF",
-      "logoDetail": "#FFF",
-      "footerPrimary": "#6e2bbb",
-      "footerDark": "#6e2bbb",
-      "footerAccent": "#FF0064",
-      "neutral1": "#292929",
-      "neutral2": "#7b7b7b",
-      "neutral3": "#bcbcbc",
-      "inputStroke": "#d7d7d7",
-      "color1": "#6e2bbb",
-      "color2": "#eff5f1",
-      "color3": "#582098",
-      "color4": "#00bbbd",
-      "defaultColor": "#4e4e4e",
-      "titleColor": "#848484",
-      "error": "#ff3030",
-      "info": "#69a8e3",
-      "warn": "#ee8946",
-      "success": "#6ab662",
-      "woman": "#efb1de",
-      "man": "#a3c8ea"
-    }
-  },
-  {
     "name": "Blue/Orange",
     "variables": {
       "primary": "#0747a6",
