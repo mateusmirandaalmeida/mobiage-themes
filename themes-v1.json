@@ -4,6 +4,9 @@
     "variables": {
       "primary": "#0CBCBE",
       "secondary": "#FF8A22"
+    },
+    "dashboard": {
+      "color": "#FF8A22"
     }
   },
   {
@@ -11,6 +14,9 @@
     "variables": {
       "primary": "#6e2bbb",
       "secondary": "#E81756"
+    },
+    "dashboard": {
+      "color": "#FF8A22"
     }
   },
   {
@@ -18,6 +24,9 @@
     "variables": {
       "primary": "#0747a6",
       "secondary": "#ff991f"
+    },
+    "dashboard": {
+      "color": "#0747A5"
     }
   }
 ]
