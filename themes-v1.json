@@ -4,7 +4,10 @@
     "variables": {
       "primary": "#0CBCBE",
       "secondary": "#FF8A22"
-    },
+   },
+   "logo": "theme-config/mobiage-orange/assets/logo.png",
+   "favicon": "theme-config/mobiage-orange/assets/favicon.png",
+   "logoLogin": "theme-config/mobiage-orange/assets/logo-login.png",
    "dashboard": {
       "bright": "rgba(253,147,0,1)",
       "dark": "rgba(247,41,14,1)",
@@ -16,7 +19,10 @@
     "variables": {
       "primary": "#6e2bbb",
       "secondary": "#E81756"
-    },
+   },
+   "logo": "theme-config/mobiage/assets/logo.png",
+   "favicon": "theme-config/mobiage/assets/favicon.png",
+   "logoLogin": "theme-config/mobiage/assets/logo-login.png",
    "dashboard": {
       "bright": "rgba(253,147,0,1)",
       "dark": "rgba(247,41,14,1)",
@@ -29,6 +35,9 @@
       "primary": "#0747a6",
       "secondary": "#ff991f"
     },
+    "logo": "theme-config/sg/assets/logo.png",
+    "favicon": "theme-config/sg/assets/favicon.png",
+    "logoLogin": "theme-config/sg/assets/logo-login.png",
     "dashboard": {
       "bright": "rgba(48,193,250,1)",
       "dark": "rgba(25,50,117,1)",
