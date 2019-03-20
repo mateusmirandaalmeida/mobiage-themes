@@ -35,7 +35,7 @@
       "primary": "#0747a6",
       "secondary": "#ff991f"
     },
-    "logo": "theme-config/sg/assets/logo.png",
+     "logo": "theme-config/sg/assets/logo.png",
     "favicon": "theme-config/sg/assets/favicon.png",
     "logoLogin": "theme-config/sg/assets/logo-login.png",
     "dashboard": {
