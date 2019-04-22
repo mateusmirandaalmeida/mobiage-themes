@@ -6,13 +6,13 @@
       "secondary": "#FF8A22"
    },
    "logo": {
-    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/Sua-logo-grande.png?alt=media"
+    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/logo.png?alt=media"
    },
    "favicon": {
-    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/Sua-logo.png?alt=media"
+    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/favicon.png?alt=media"
    },
    "logoLogin": {
-    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/Sua-logo.png?alt=media"
+    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/logo-login.png?alt=media"
    },
    "dashboard": {
       "bright": "rgba(253,147,0,1)",
@@ -27,13 +27,13 @@
       "secondary": "#E81756"
    },
    "logo": {
-    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/Sua-logo-grande.png?alt=media"
+    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/logo.png?alt=media"
    },
    "favicon": {
-    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/Sua-logo.png?alt=media"
+    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/favicon.png?alt=media"
    },
    "logoLogin": {
-    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/Sua-logo-branco.png?alt=media"
+    "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/logo-login.png?alt=media"
    },
    "dashboard": {
       "bright": "rgba(253,147,0,1)",
@@ -48,13 +48,13 @@
       "secondary": "#ff991f"
     },
     "logo": {
-      "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/Sua-logo-grande.png?alt=media"
+      "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/sg-logo.png?alt=media"
     },
     "favicon": {
-     "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/Sua-logo.png?alt=media"
+     "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/sg-favicon.png?alt=media"
     },
     "logoLogin": {
-     "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/Sua-logo-branco.png?alt=media"
+     "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-homologation.appspot.com/o/sg-logo-login.png?alt=media"
     },
     "dashboard": {
       "bright": "rgba(48,193,250,1)",
