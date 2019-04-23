@@ -85,7 +85,7 @@
   },
 
   {
-    "name": "Azul Escuro/Laranja",
+    "name": "Azul/Laranja",
     "variables": {
       "primary": "#0747A6",
       "secondary": "#FF991F"
@@ -152,7 +152,7 @@
 
 
  {
-    "name": "Azul Escuro/Pink",
+    "name": "Azul/Pink",
     "variables": {
       "primary": "#EA4C89",
       "secondary": "#3E39AA"
@@ -174,7 +174,7 @@
   },
 
  {
-    "name": "Azul Claro/Roxo",
+    "name": "Turquesa/Roxo",
     "variables": {
       "primary": "#540095",
       "secondary": "#22C5F8"
@@ -196,7 +196,7 @@
   },
 
  {
-    "name": "Azul Claro/Nude",
+    "name": "Turquesa/Nude",
     "variables": {
       "primary": "#3acbc7",
       "secondary": "#8D724B"
@@ -218,7 +218,7 @@
   },
 
  {
-    "name": "Verde Claro/Verde Escuro",
+    "name": "Verde/Verde Escuro",
     "variables": {
       "primary": "#02CE69",
       "secondary": "#0E414C"
