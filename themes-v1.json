@@ -19,10 +19,10 @@
       "dark": "rgba(247,41,14,1)",
       "tooltip": "#00BDBE",
       "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#0CBCBE",
+        "two": "#FF8A22",
+        "three": "#FF8A22",
+        "four": "#FF8A22"
       }
     }
   },
@@ -46,10 +46,10 @@
       "dark": "rgba(105,0,195,1)",
       "tooltip": "#C73444",
      "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#6e2bbb",
+        "two": "#E81756",
+        "three": "#E81756",
+        "four": "#E81756"
       }
     }
   },
@@ -73,10 +73,10 @@
       "dark": "rgba(25,50,117,1)",
       "tooltip": "rgba(48,193,250,1)",
       "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#ff991f",
+        "two": "#0747a6",
+        "three": "#0747a6",
+        "four": "#0747a6"
       }
     }
   },
@@ -100,10 +100,10 @@
       "dark": "rgba(41, 41, 41, 1)",
       "tooltip": "rgba(41, 41, 41, 1)",
       "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#292929",
+        "two": "#e8c553",
+        "three": "#e8c553",
+        "four": "#e8c553"
       }
     }
   },
@@ -128,10 +128,10 @@
       "dark": "rgba(255,153,31,1)",
       "tooltip": "#0747A6",
       "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#FF991F",
+        "two": "#0747A6",
+        "three": "#0747A6",
+        "four": "#0747A6"
       }
     }
   },
@@ -156,10 +156,10 @@
       "dark": "rgba(222,109,40,1)",
       "tooltip": "#DE6D28",
       "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#5E39AA",
+        "two": "#DE6D28",
+        "three": "#DE6D28",
+        "four": "#DE6D28"
       }
     }
   },
@@ -184,10 +184,10 @@
       "dark": "rgba(157,131,94,1)",
       "tooltip": "#292929",
       "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#9D835E",
+        "two": "#292929",
+        "three": "#292929",
+        "four": "#292929"
       }
     }
   },
@@ -213,10 +213,10 @@
       "dark": "rgba(62,57,170,1)",
       "tooltip": "#EA4C89",
       "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#3E39AA",
+        "two": "#EA4C89",
+        "three": "#EA4C89",
+        "four": "#EA4C89"
       }
     }
   },
@@ -241,10 +241,10 @@
       "dark": "rgba(34,197,248,1)",
       "tooltip": "#540095",
       "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#22C5F8",
+        "two": "#540095",
+        "three": "#540095",
+        "four": "#540095"
       }
     }
   },
@@ -269,10 +269,10 @@
       "dark": "rgba(141,114,75,1)",
       "tooltip": "#3acbc7",
       "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#3acbc7",
+        "two": "#8D724B",
+        "three": "#8D724B",
+        "four": "#8D724B"
       }
     }
   },
@@ -297,10 +297,10 @@
       "dark": "rgba(14,65,76,1)",
       "tooltip": "#02CE69",
        "cards": {
-        "one": "#FD9300",
-        "two": "#00BDBE",
-        "three": "#00BDBE",
-        "four": "#00BDBE"
+        "one": "#02CE69",
+        "two": "#0E414C",
+        "three": "#0E414C",
+        "four": "#0E414C"
       }
     }
   }
