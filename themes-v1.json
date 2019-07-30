@@ -107,6 +107,33 @@
       }
     }
   },
+  {
+    "name": "Viaweb",
+    "variables": {
+      "primary": "#201559",
+      "secondary": "#edbf4f"
+    },
+    "logo": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-viaweb-prod.appspot.com/o/logoLogin.jpg?alt=media&token=e87c3e2b-e718-412c-9cfc-c264acfac60c"
+    },
+    "favicon": {
+     "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-viaweb-prod.appspot.com/o/favicon.JPG?alt=media&token=ea4aaa72-3aca-4290-a865-420c462141fe"
+    },
+    "logoLogin": {
+     "url": "https://firebasestorage.googleapis.com/v0/b/mobiage-viaweb-prod.appspot.com/o/logoLogin.jpg?alt=media&token=e87c3e2b-e718-412c-9cfc-c264acfac60c"
+    },
+    "dashboard": {
+      "bright": "rgba(48,193,250,1)",
+      "dark": "rgba(25,50,117,1)",
+      "tooltip": "rgba(48,193,250,1)",
+      "cards": {
+        "one": "#201559",
+        "two": "#edbf4f",
+        "three": "#edbf4f",
+        "four": "#edbf4f"
+      }
+    }
+  },
     {
     "name": "Amarelo/Preto",
     "variables": {
